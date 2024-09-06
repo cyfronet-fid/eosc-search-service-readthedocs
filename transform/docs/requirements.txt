@@ -1,4 +1,5 @@
 sphinx==7.4.7
 sphinx_rtd_theme
 sphinx_autodoc_typehints
-sphinxcontrib.autodoc_pydantic
+sphinxcontrib
+autodoc_pydantic
