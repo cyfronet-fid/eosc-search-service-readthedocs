@@ -25,7 +25,7 @@ extensions = [
     "sphinx.ext.doctest",
     "sphinx.ext.todo",
     "sphinx_autodoc_typehints",
-    "sphinxcontrib.autodoc_pydantic",
+    "autodoc_pydantic",
 ]
 
 templates_path = ["_templates"]
