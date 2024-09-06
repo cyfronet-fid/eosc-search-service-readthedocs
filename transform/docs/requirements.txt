@@ -1,4 +1,2 @@
-sphinx>=8.0
 sphinx_rtd_theme
 sphinx_autodoc_typehints
-sphinxcontrib-autodoc-pydantic
